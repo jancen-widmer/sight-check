@@ -57,6 +57,7 @@ class _AppLocalizationsDelegate
       "hi",
       "ar",
       "fr",
+      "fur",
       "tr",
       "ru",
       "ja",
